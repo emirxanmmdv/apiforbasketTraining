@@ -1,0 +1,76 @@
+{
+  "Products": [
+    {
+      "image": "https://bazarstore.az/cdn/shop/products/30002709_767x1000.jpg?v=1693787050",
+      "id": 1,
+      "name": "Bismak",
+      "category": "un",
+      "price": "6.99"
+    },
+    {
+      "image" : "https://bravomarket.online/upload/iblock/fee/feeb45a3f724918424f96ce0b27a2e03.jpg",
+      "id": 2,
+      "name": "Bonaqua",
+      "category": "su",
+      "price": "1.00"
+    },
+    {
+      "image" : "https://bazarstore.az/cdn/shop/files/d7e98949f67a532bb7daf32d3ab09049.jpg?v=1693986856",
+      "id": 3,
+      "name": "Alpen Gold",
+      "category": "şirniyyat",
+      "price": "1.60"
+    },
+    {
+      "image" : "https://bazarstore.az/cdn/shop/products/30045293_550x550.jpg?v=1693739221",
+      "id": 4,
+      "name": "Winston Silver Compact",
+      "category": "tütün məhsulu",
+      "price": "3.80"
+    },
+    {
+      "image" : "https://www.bakenroll.az/en/image/xirdalan-beer.jpg",
+      "id": 5,
+      "name": "Xırdalan",
+      "category": "içki",
+      "price": "1.99"
+    },
+    {
+      "image" : "https://bazarstore.az/cdn/shop/products/30188809_c303d467-883c-459c-b9d6-7faefaa474b3.png?v=1693371968",
+      "id": 6,
+      "name": "Popkek",
+      "category": "şirniyyat",
+      "price": "0.90"
+    },
+    {
+      "image" : "https://carlsbergazerbaijan.az/media/37683/carlsberg-yeni-2.png",
+      "id": 7,
+      "name": "Carlsberg",
+      "category": "içki",
+      "price": "3.50"
+    },
+    {
+      "image" : "https://bravomarket.online/upload/iblock/0af/0afa8ef502ffbf56427e79a560c5982a.jpg",
+      "id": 4,
+      "name": "LD Silver Compact",
+      "category": "tütün məhsulu",
+      "price": "3.40"
+    }
+  ],
+  "User": [
+    {
+      "id": 1,
+      "username": "əmirxan",
+      "email": "emirxan123@gmail.com",
+      "phonenumber": "+994 55 123 45 67",
+      "basketId": 1
+    }
+  ],
+  "basket": [
+    {
+      "id": 1,
+      "userID": 1,
+      "data": []
+    }
+  ]
+}
